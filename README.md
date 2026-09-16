@@ -10,7 +10,7 @@ Puedes ver el recibo en este enlace:
 
 O escanéalo con tu teléfono:
 
-<img width="3000" height="3889" alt="https_mrgrinch3007_github_io_Cristo-pag-_Cristo_html" src="https://github.com/user-attachments/assets/d542b7a0-9add-4822-b73e-9aa90c8256d0" />
+<img width="300" height="388" alt="https_mrgrinch3007_github_io_Cristo-pag-_Cristo_html" src="https://github.com/user-attachments/assets/d542b7a0-9add-4822-b73e-9aa90c8256d0" />
 
 ## Cómo funciona
 
